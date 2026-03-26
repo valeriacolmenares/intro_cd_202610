@@ -25,5 +25,11 @@ Imagen desde URL externa
 Formato de Texto
 
 **negrita**
+
 *cursiva*
+
 ~~tachado~~
+
+`código en línea`
+
+> cita o blockquote
