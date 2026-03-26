@@ -18,4 +18,4 @@ Imagen simple
 
 
 Imagen desde URL externa
-![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
+![Logo](https://github.com/valeriacolmenares/intro_cd_202610/blob/main/imagen01.jpg)
