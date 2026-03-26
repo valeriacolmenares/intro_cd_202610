@@ -12,4 +12,4 @@ Felices, estamos haciendo el readme en la clase.
 
 
 Imagen simple
-![Texto alternativo](-2.jpg)
+![Texto alternativo](imagen01.jpg)
