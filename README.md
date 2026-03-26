@@ -15,3 +15,7 @@ Imagen simple
 
 
 ![Texto alternativo](imagen01.jpg)
+
+
+Imagen desde URL externa
+![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
