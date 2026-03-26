@@ -22,6 +22,7 @@ Imagen desde URL externa
 
 ![Logo](https://github.com/valeriacolmenares/intro_cd_202610/blob/main/imagen01.jpg)
 
+---
 Formato de Texto
 
 **negrita**
@@ -29,6 +30,8 @@ Formato de Texto
 *cursiva*
 
 ~~tachado~~
+
+---
 
 `código en línea`
 
@@ -44,8 +47,11 @@ Elemento sin orden
 - [ ] Tarea pendiente
 - [x] Tarea completada
 
+---
+
 [Texto del enlace](https://url.com)
 
+---
 
 Bloques de Código
 
@@ -63,6 +69,8 @@ Stata
 ```stata
 sysuse auto.dta
 ```
+
+---
 
 Tablas
 | Columna 1 | Columna 2 | Columna 3 |
