@@ -18,4 +18,6 @@ Imagen simple
 
 
 Imagen desde URL externa
+
+
 ![Logo](https://github.com/valeriacolmenares/intro_cd_202610/blob/main/imagen01.jpg)
