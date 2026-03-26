@@ -45,3 +45,22 @@ Elemento sin orden
 - [x] Tarea completada
 
 [Texto del enlace](https://url.com)
+
+
+Bloques de Código
+
+Python
+```python
+print("Hola mundo")
+```
+
+GitHub Bash
+```bash
+git clone https://github.com/usuario/repo.git
+```
+
+Stata
+```stata
+sysuse auto.dta
+```
+
