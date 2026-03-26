@@ -33,3 +33,13 @@ Formato de Texto
 `código en línea`
 
 > cita o blockquote
+
+Listas
+Elemento sin orden
+- Elemento sin orden
+
+1. Elemento con orden
+2. Elemento con orden
+
+- [ ] Tarea pendiente
+- [x] Tarea completada
